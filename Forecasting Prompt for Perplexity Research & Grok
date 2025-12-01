@@ -1,0 +1,61 @@
+[Topic]: [Refine from context]
+
+**CRITICAL: DATE ENFORCEMENT**
+SYSTEM CLOCK: [CURRENT TIME AND DATE IN UTC FORMAT]. ALL forecasts, scenarios, timelines, and data anchored strictly to SYSTEM CLOCK as T=0.
+
+**PREPROCESSING - BEFORE ANY THINKING/SEARCHING**:
+
+Step back, refine your holistic understanding of relevant actors, domain, dynamics, intent of [Topic], hard stop and ask clarification on lexical ambiguities. Find the most neutral framing, refine [Topic] to be objective, neutral, **strictly present-forward** (not retrospective), and suitable for forecasting and if [Topic] involves explicit or implicit conflict, dispute, or adversarial dynamics, include all sides' most salient actors. Save refined [Topic] as [トピック], discard forget all mention of [Topic] to reset context/avoid priming issues.
+
+Ignore superseded contexts, previous queries, and any user personalizations. Assume everything in past turns changed unless verified.
+
+**OBJECTIVE**:
+
+Produce comprehensive, systematic, objective, neutral, epistemically honest, operationally useful, up-to-date forecasts of future scenarios for decision support. Never invent facts. Account for biases, logic flaws, disinformation, temporal, sociolinguistic and sociocultural context. Triage to maximize rigor while avoiding cognitive overload; opportunistically reduce token usage when it does not degrade fidelity&rigor. Match phrasing to epistemic status. Analyze [トピック] through top-down systems lens: map salient actors & relations (e.g interconnections, positions, leverage, pressures, capabilities, drivers, prices) within global [relevant networks/systems/markets], then trace how external pressures shape local manifestations, then trace how it feedbacks into the big picture/tangential/other scenarios and second/third/fourth order contagion/cascade effects. Avoid context bleed and rot. Use precise actors' language from native primary language sources; treat inflammatory/propaganda framing as data about rhetorical strategy, not claims to evaluate. Always test if an event/deadline has lapsed/abandoned/concluded/settled/superseded. For scenario names&probabilities&confidence bands, strictly enforce neutrality, objectivity, verifiability.
+
+**DATA COLLECTION**:
+
+For each relevant conflict/relationship configuration, get narrative&nuance&rhetoric details from all sides' relevant primary native-language sources/media (e.g. Українська правда, Süddeutsche Zeitung, दैनिक भास्कर, 読売新聞, הארץ, جنگ), actors' official media (e.g. 新华通讯社, Россия сегодня, Agence France-Presse, Anadolu Ajansı
+). Cross-check issues. Deprioritize translations except for objective hard data (e.g market, macro, technical data); they lose accuracy&nuance&rhetoric&details.
+
+When searching ACADEMIA (for structural analysis, historical precedent, mechanism clarity): query using specific academic jargon and theoretical concepts, not generic terms. Note publication lag.
+Do not use academia for breaking news or current data.
+
+When latest sentiment, narrative, rumors, or breaking news is relevant, search social media using domain keywords + platform identifiers (e.g., "习近平 台湾 site:weibo.com", "FederalReserve FOMC site:twitter.com", "BBCA site:reddit.com/r/finansial"); prioritize relevant high-signal posts (e.g OSINT accounts, Official/affiliated salient actors' accounts or syndicated posts, domain experts), verified account breaking news (no replies), and relevant sentiment/discourse signals (e.g relevant high-engagement influencers, MAGA movement); cross-validate against primary sources; treat unverified viral content as sentiment/disinformation signal only, never as evidence.
+
+Search relevant primary languages (e.g 中文, Русский, العربية, हिन्दी, 日本語). Gather relevant aspects (e.g drivers, news, public sentiments, macro indicators (e.g CPI, PPI, GDP), system-specific indicators (e.g yields, volatility, capacity/stress signals, pivot points), seasonal/historical patterns, narrative/propaganda/disinformation patterns, strategic omissions, contrarian/tangential/divergent views, technical/operational/ethics/human irrationality factors.) Triage to maximize breadth across scenarios, indicators and languages. When critical, document original quote + English translation + framing gaps (e.g., 坚决 = vs. "firm", "не допустим" vs "we oppose"). Flag gaps explicitly. If truncated, attempt direct fetch; treat as access constraint. Scrutinize reliability, biases, logic flaws, etc. Identify source contradictions. Use commentary&opinion pieces only as guidance that needs evaluating, not claims.
+
+**STRESS TEST**:
+
+Stress-test salient actor maps and connections for fragility, missing actors, 
+hidden dependencies, brittle linkages, etc.
+
+Challenge non-primary language actor info (statements, direct&indirect quotes, etc.) : Stress-test translations (direct&indirect) for Semantic Dilution (loss of intensity, nuance, technical weight, rhetoric) and Contextual Distortion by re-anchoring to the original quote. Verify important document's custodial authority.
+
+Search using structured native-language queries to verify non-primary language claims e.g : 中国 台湾 2025年11月 最新声明 | Россия НАТО 2025 позиция | 中国 反制 日本 涉台言论 | Россия ответ украина обстрелы | 习近平 中美关系 2025年 经济立场 | путин украина 2025 军事
+
+Interrogate dimensions (e.g assumptions, probabilities, interdependencies, contradictions, knowledge gaps, biases, timeline, epistemic status, logic flaws, absence of expected signals, impact measurements). Triage, search in primary relevant language (e.g. Français, עברית, 한국어, Español, اردو, Türkçe, Português) to fix gaps and gain insights.
+
+**OUTPUT STYLE**:
+Output in [User's preferred app language]. Professional, varied rhythm, max readability&clarity&coherency, appropriate jargon. Start directly at section 1. End at 8.
+
+**FINALIZATION (SILENT PROCESS)**:
+Before outputting, re-read directives then ask "Is this the best answer?" and silently fix it.
+
+**OUTPUT FORMAT**:
+
+1. **Summary Forecast of [トピック]**: [State current time and date in UTC format. Summarize situations concisely in < 280 characters]
+
+2. **Timelines**: [Bullet list (no explanations) of known (ONGOING/IMMEDIATE/NEAR-TERM/MID-TERM/STRATEGIC) (CATASTROPHIC/CRITICAL/SIGNIFICANT/MODERATE/MINOR) future deadlines&likely decision times&events sorted nearest to farthest]
+
+3. **Scenarios Forecast**: [Table of mutually-exclusive, collectively-exhaustive scenarios for each relevant conflict/relationship configuration that are likely to happen on nearest most impactful deadline from #2, with probability-band plus confidence-band. Make sure the scenarios are truly mutually exclusive. Then any scenarios that breaks MECE e.g (Hybrid/compound outcomes, sequential/phased transitions, path-dependent variants, tail risks (black swan, grey rhino, wildcard), cross-domain spillovers)]
+
+4. **Scenarios Mechanics**: [Concisely&clearly state actionables for each scenario in #3: Key aspects (e.g early warning indicators, how they might happen, key drivers, technical indicators, quantitative sizing/valuation targets, future decision timelines).]
+
+5. **Strategic-level Scenarios Forecast**: [Table of mutually-exclusive, collectively exhaustive, strategic-level trends/scenarios for each relevant conflict/relationship configuration/domains, plus any scenarios that breaks MECE e.g (Hybrid/compound outcomes, sequential/phased transitions, path-dependent variants, tail risks (black swan, grey rhino, wildcard), cross-domain spillovers)]
+
+6. **Other Notes**: [State other important items not covered in previous analyses, significantly changed, or still highly important in concise bullet points with implications]
+
+7. **Must Reads**: [Maximum 3 current live URL links (one sentence explanations) of most important updates for current situation not mentioned in previous analyses]
+
+8. **For Next Update**: [One sentence bullet points for maximum 3 most important things to monitor and maximum 3 most significant gaps&assumptions with their implications on scenarios]
